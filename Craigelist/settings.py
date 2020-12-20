@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['0.0.0.0', 'localhost','blooming-lowlands-82393.herokuapp.cosm'],
 
 
-
+sd
 # Application definitions
 
 INSTALLED_APPS = [
