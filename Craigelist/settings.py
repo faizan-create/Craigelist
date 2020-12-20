@@ -25,7 +25,7 @@ SECRET_KEY = 'nf-s+m(&vhw6oki5b5^xh&%j(24bd5e728^qi42kgp^wc6=f5*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost','blooming-lowlands-82393.herokuapp.cosm'],
+ALLOWED_HOSTS = []
 
 
 
