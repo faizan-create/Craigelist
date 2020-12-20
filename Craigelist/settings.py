@@ -58,7 +58,7 @@ ROOT_URLCONF = 'Craigelist.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\github\Codedaddies_list\Craigelist\templates'],
+        'DIRS': [r'C:\github\Codedaddies_list\Craigelist\templates', r'C:\github\Codedaddies_list\Craigelist\templates\webapp'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
